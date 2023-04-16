@@ -1,0 +1,5 @@
+Hola que tal
+Esto es un fichero de prueba
+Hay 5 lineas
+Hay 18 palabras
+Hay 71 caracteres
